@@ -1,8 +1,8 @@
 ---
 title: 'CAP and BASE Theorem'
 date: 2023-11-04 05:47:13
-excerpt: 'Consistency
-Every read receives the most recent write or an error.'
+excerpt: 'CAP and BASE Theorem'
+categories: 分布式系统
 tags: [分布式系统, 数据一致性]
 ---
 
