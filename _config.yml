@@ -4,8 +4,8 @@
 
 # Site
 title: 树滂的落叶
-subtitle: ''
-description: '树滂的落叶的个人博客'
+subtitle: 'Hakuna Matata'
+description: '树滂的落叶与雪碧喵'
 keywords:
 author: apocaleaf
 language: zh-CN
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
