@@ -1,0 +1,17 @@
+touch _config.next.yml
+
+menu:
+  home: / || fa fa-home
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  about: 
+    default: /about/ || fa fa-user
+    sprite: /sprite/ || fa fa-cat
+    football: /football/ || fa fa-futbol
+    coding: /coding/ || fa fa-code
+
+follow_me:
+  #Twitter: https://twitter.com/username || fab fa-twitter
+  #Telegram: https://t.me/channel_name || fab fa-telegram
+  WeChat: /images/wechat_channel.jpg || fab fa-weixin
+  RSS: /atom.xml || fa fa-rss
