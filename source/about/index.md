@@ -23,5 +23,5 @@ noheader: true
 我称为<font color="#fc6423">活着</strong></font>
 
 我是一片&nbsp;树叶 
-没有名字，落在溪畔树下，感受平凡的伟大
+没有名字，落在溪畔树下，体会平凡的伟大
 称为<font color="#fc6423" >我的追寻</font>
